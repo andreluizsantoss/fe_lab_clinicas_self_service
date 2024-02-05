@@ -41,7 +41,7 @@ class DocumentsScanConfirmPage extends StatelessWidget {
             ),
             child: Column(
               children: [
-                Image.asset('assets/images/foto_confirm_ico.png'),
+                Image.asset('assets/images/foto_confirm_icon.png'),
                 const SizedBox(
                   height: 15,
                 ),

@@ -47,7 +47,7 @@ class _DocumentsScanPageState extends State<DocumentsScanPage> {
             ),
             child: Column(
               children: [
-                Image.asset('assets/images/cam_ico.png'),
+                Image.asset('assets/images/cam_icon.png'),
                 const SizedBox(
                   height: 15,
                 ),
